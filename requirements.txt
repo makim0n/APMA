@@ -1,0 +1,9 @@
+beautifulsoup4>=4.6.0
+bs4>=0.0.1
+cstruct>=1.6
+Fabric>=1.14.0
+lxml>=4.1.1
+Pillow>=5.0.0
+python-vagrant>=0.5.15
+urllib3>=1.22
+volatility>=2.6
